@@ -1,16 +1,17 @@
-## Hi there 👋
+# Alvaro Lopez Baillo
 
-<!--
-**alvarolopezbr/alvarolopezbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Data Science and AI student at Dublin City University, looking for a data science internship for summer 2027.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a base in Python, R, SQL, statistics, calculus and linear algebra through my degree
+- Solving the [NeetCode 150](https://github.com/alvarolopezbr/neetcode-submissions) in Python, one problem a day
+- DataCamp courses in Python, R, Git and Statistics
+
+## Tools
+
+Python · R · SQL · Git and GitHub · VS Code · PyCharm
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/alvaro-lopez-baillo) · alvarolopezbr@gmail.com
